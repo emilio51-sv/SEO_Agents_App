@@ -4,3 +4,4 @@ beautifulsoup4
 crewai
 langchain
 langchain-community
+pysqlite3_binary
